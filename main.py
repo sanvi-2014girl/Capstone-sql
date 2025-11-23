@@ -1,6 +1,6 @@
 import cv2
 import random
-
+#Sanvi face
 # Open webcam
 cap = cv2.VideoCapture(0)
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
